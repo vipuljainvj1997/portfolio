@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vipul! <br/><a href="https://github.com/joshmadakor1">Passionate Data Scientist</a></h1>
+<h1>Hi, I'm Vipul! <br/><a href="https://github.com/vipuljainvj1997">Passionate Data Scientist</a></h1>
 
 <h2>👨‍💻 Certifications:</h2>
 
