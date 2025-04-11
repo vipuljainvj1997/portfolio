@@ -20,7 +20,7 @@
 - <b>Mouse pointer control using index finger and control click using index and middle fingers</b>
   - [Mouse pointer control using index finger](https://github.com/vipuljainvj1997/VirtualMouseControl.git)
 - <b>Sales Analysis report using Power BI
-  - [Mouse pointer control using index finger](https://github.com/vipuljainvj1997/SalesAnalysisReport.git)
+  - [Sales Analysis report with PowerBI](https://github.com/vipuljainvj1997/SalesAnalysisReport.git)
 
 
 <h2> 🤳 Connect with me:</h2>
