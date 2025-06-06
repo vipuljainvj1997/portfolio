@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Data Science and AI by Tutort](https://drive.google.com/file/d/1hmjwvHsm5of1AFopcw3DidByWhS15NYP/view?usp=drive_link)
+- [Data Science and AI by Tutort](https://drive.google.com/file/d/1hn21TmR9hGL7wgVGy4gzzhG4rmEq1QQP/view?usp=sharing)
 
 
 <h2>👨‍💻 Data science projects:</h2>
